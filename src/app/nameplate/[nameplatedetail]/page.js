@@ -1,12 +1,12 @@
 'use client'
-import React from 'react'
+import React, { useState } from 'react'
 import { useEffect } from 'react';
 import alldata from '../../../../services/alldata';
 
 function page(props) {
 
-  const [nameplatedata, setnameplateData] = React.useState([]);
-  const [all_data, setall_Data] = React.useState([]);
+  const [nameplatedata, setnameplateData] = useState([]);
+  const [all_data, setall_Data] = useState([]);
 
   useEffect(() => {
     async function fetchData() {

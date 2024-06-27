@@ -14,13 +14,13 @@ function contact() {
 
                     <div className='flex gap-20'>
                         <a target="_blank" href="aniketsingh16oct2000@gmail.com">
-                            <img className='h-16 aspect-square mix-blend-darken' src="https://p7.hiclipart.com/preview/502/246/366/gmail-computer-icons-email-google-desktop-gmail-thumbnail.jpg" alt="" />
+                            <img className='h-16 aspect-square mix-blend-darken' src="https://p7.hiclipart.com/preview/502/246/366/gmail-computer-icons-email-google-desktop-gmail-thumbnail.jpg"  />
                         </a>
                         <a target="_blank" href="www.instagram.com/Aniketsingh016">
-                            <img className='h-16 aspect-square mix-blend-darken' src="https://i.pinimg.com/originals/71/72/16/7172161b580470deb78078669236d2c1.jpg" alt="" />
+                            <img className='h-16 aspect-square mix-blend-darken' src="https://i.pinimg.com/originals/71/72/16/7172161b580470deb78078669236d2c1.jpg"  />
                         </a>
                         <a target="_blank" href="www.whatsapp.com/9373503353">
-                            <img className='h-16 aspect-square mix-blend-darken' src="https://p7.hiclipart.com/preview/922/489/218/whatsapp-icon-logo-whatsapp-logo-png.jpg" alt="" />
+                            <img className='h-16 aspect-square mix-blend-darken' src="https://p7.hiclipart.com/preview/922/489/218/whatsapp-icon-logo-whatsapp-logo-png.jpg"  />
                         </a>
                     </div>
                     </div>

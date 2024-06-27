@@ -40,9 +40,9 @@ function Layout({ children }) {
                     <span>Resin</span>
                     <p>All rights reserved @2024</p>
                     <div className='mt-4 flex justify-center gap-2'>
-                        <img className='h-5 mix-blend-darken' src="https://w7.pngwing.com/pngs/477/596/png-transparent-computer-icons-facebook-blog-facebook-logo-desktop-wallpaper-facebook-icon-thumbnail.png" alt="" />
-                        <img className='h-5 mix-blend-darken' src="https://static.vecteezy.com/system/resources/previews/008/385/572/original/twitter-social-media-icon-abstract-symbol-illustration-free-vector.jpg" alt="" />
-                        <img className='h-5 mix-blend-darken' src="https://w7.pngwing.com/pngs/874/257/png-transparent-whatsapp-computer-icons-computer-software-whatsapp-text-logo-whatsapp-icon.png" alt="" />
+                        <img className='h-5 mix-blend-darken' src="https://w7.pngwing.com/pngs/477/596/png-transparent-computer-icons-facebook-blog-facebook-logo-desktop-wallpaper-facebook-icon-thumbnail.png"  />
+                        <img className='h-5 mix-blend-darken' src="https://static.vecteezy.com/system/resources/previews/008/385/572/original/twitter-social-media-icon-abstract-symbol-illustration-free-vector.jpg"  />
+                        <img className='h-5 mix-blend-darken' src="https://w7.pngwing.com/pngs/874/257/png-transparent-whatsapp-computer-icons-computer-software-whatsapp-text-logo-whatsapp-icon.png"  />
                     </div>
                 </div>
             </footer>

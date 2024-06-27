@@ -1,11 +1,11 @@
 'use client'
-import React from 'react'
+import React, { useState } from 'react'
 import { useEffect } from 'react';
 import productdata from '../../../../services/productdata';
 
 function page(props) {
 
-  const [earringdata, setearringData] = React.useState([]);
+  const [earringdata, setearringData] = useState([]);
   const [data, setData] = React.useState([]);
 
   useEffect(() => {
