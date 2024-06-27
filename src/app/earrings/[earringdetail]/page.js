@@ -35,7 +35,7 @@ function page(props) {
       <div className='flex mt-20 ml-40 justify-around'>
 
         <div>
-          <img className='h-96 hover:scale-125 ease-in-out duration-500' src={earringdata.image} />
+          <img alt="image" className='h-96 hover:scale-125 ease-in-out duration-500' src={earringdata.image} />
         </div>
 
         <div>

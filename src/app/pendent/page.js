@@ -40,9 +40,9 @@ import { useGSAP } from '@gsap/react';
   return (
     <div>
       <div className='flex justify-center mb-24 items-center'>
-        <img className='leftarrow relative top-14 left-40 scale-50' src="/images/line.png"  />
+        <img alt="image" className='leftarrow relative top-14 left-40 scale-50' src="/images/line.png"  />
         <h1 className='earringsheading text-4xl font-bold text-center mt-28'>Pendents</h1>
-        <img className='rightarrow relative top-14 right-40 scale-50' src="/images/line.png"  />
+        <img alt="image" className='rightarrow relative top-14 right-40 scale-50' src="/images/line.png"  />
       </div>
 
       <div className='earrings_images gap-10 grid grid-cols-3 place-items-center mb-20'>

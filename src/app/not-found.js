@@ -26,7 +26,7 @@ function notfound() {
                 <h1 className='text-3xl'>Only Earring page is coded completely </h1>
                 <Link href="/earrings">
                     <div className='flex mt-10 justify-center'>
-                        <img className='h-64' src="/images/new.jpg"/>
+                        <img alt="image" className='h-64' src="/images/new.jpg"/>
                     </div>
                     <h1 className='text-3xl hover:underline'>&#8594; Link to Earring Page</h1>
                 {/* <h1 className='text-3xl'>Thank You </h1> */}

@@ -23,7 +23,7 @@ function homepage() {
   return (
     <div >
       <div className="flex items-center justify-center">
-        <img className="h-80 rounded w-3/4 my-32 object-cover" src="/images/111.png"  />
+        <img alt="image" className="h-80 rounded w-3/4 my-32 object-cover" src="/images/111.png"  />
       </div>
       <div className="insideimg flex flex-col justify-center items-center relative bottom-80 overflow-hidden">
         <h1 id="insideimg_1" className="text-white text-center text-3xl font-bold">Resin Art</h1>
@@ -44,7 +44,7 @@ function homepage() {
 
         <div className="group">
           <Link href="/earrings">
-            <img className=" hmp_img1 h-72 w-72 rounded-xl hover:scale-105 transition-all duration-700 ease-in-out " src="/images/3.jpg"  />
+            <img alt="image" className=" hmp_img1 h-72 w-72 rounded-xl hover:scale-105 transition-all duration-700 ease-in-out " src="/images/3.jpg"  />
 
             <h1 className="text-black text-center pt-2">Ear Rings</h1>
           </Link>
@@ -52,21 +52,21 @@ function homepage() {
         </div>
         <Link href="/pendent">
           <div className=" ">
-            <img className="hmp_img2 h-72 w-72 rounded-xl hover:scale-105 transition-all duration-700 ease-in-out" src="/images/6.jpg"  />
+            <img alt="image" className="hmp_img2 h-72 w-72 rounded-xl hover:scale-105 transition-all duration-700 ease-in-out" src="/images/6.jpg"  />
             <h1 className="text-black text-center pt-2">Pendent</h1>
           </div>
         </Link>
 
         <Link href="/wallclock">
           <div className="">
-            <img className="hmp_img3 h-72 w-72 rounded-xl hover:scale-105 transition-all duration-700 ease-in-out" src="/images/10.jpg"  />
+            <img alt="image" className="hmp_img3 h-72 w-72 rounded-xl hover:scale-105 transition-all duration-700 ease-in-out" src="/images/10.jpg"  />
             <h1 className="text-black text-center pt-2">Wall Clocks</h1>
           </div>
         </Link>
 
         <Link href="/nameplate">
           <div className="">
-            <img className="hmp_img4 h-72 w-72 rounded-xl hover:scale-105 transition-all duration-700 ease-in-out" src="/images/12.jpg"  />
+            <img alt="image" className="hmp_img4 h-72 w-72 rounded-xl hover:scale-105 transition-all duration-700 ease-in-out" src="/images/12.jpg"  />
             <h1 className="text-black text-center pt-2">Name Plates</h1>
           </div>
         </Link>
