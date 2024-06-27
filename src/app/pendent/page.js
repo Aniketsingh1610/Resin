@@ -1,6 +1,6 @@
 'use client'
 import gsap from 'gsap';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import React from 'react';
 import Link from 'next/link';
 import alldata from '../../../services/alldata';
@@ -8,7 +8,7 @@ import { useGSAP } from '@gsap/react';
 
   const pendent = () => {
 
-  const [all_data, setall_Data] = React.useState([]);
+  const [all_data, setall_Data] = useState([]);
 
   useEffect(() => {
     async function all_data() {
